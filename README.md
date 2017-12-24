@@ -1,2 +1,2 @@
-# hypernova-go
-Go client for Hypernova
+# hypernova-golang
+Go client for Hypernova.
